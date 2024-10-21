@@ -1,0 +1,2 @@
+#install for torch and torchvision
+pip install torch torchvision
